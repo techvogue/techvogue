@@ -69,7 +69,8 @@
 ### 🔥 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/techvogue/techvogue/output/github-contribution-grid-snake.svg" />
+<img src="https://github.com/techvogue/techvogue/blob/output/github-contribution-grid-snake.svg?raw=true" />
+
 
 </p>
 
