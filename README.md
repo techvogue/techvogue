@@ -6,8 +6,8 @@
 
 <!-- 3D banner -->
 <p align="center">
-  <img src="https://github.com/techvogue/techvogue/blob/main/assets/banner.png" alt="cool header" />
-</p>
+<img src="https://github.com/your-username/your-username/blob/main/header.webp" alt="cool header" />
+
 
 <h1 align="center">Welcome to my GitHub! 👨‍💻</h1>
 <h3 align="center">Full Stack MERN Developer | Passionate about IoT & Wireless Communication 🌐</h3>
