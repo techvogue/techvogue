@@ -5,7 +5,7 @@
 
 <!-- 3D banner -->
 <p align="center">
-  <img src="https://github.com/techvogue/techvogue/assets/your-banner-id/banner.png" alt="cool header" />
+  <img src="https://github.com/techvogue/techvogue/blob/main/assets/banner.png" alt="cool header" />
 </p>
 
 <h1 align="center">Welcome to my GitHub! 👨‍💻</h1>
@@ -16,8 +16,8 @@
 ### 🧑‍💻 About Me
 
 - 🧠 I’m a full stack dev building projects with **React, Node, MongoDB, Tailwind & GSAP**
-- 📡 Also passionate about **IoT, embedded systems**, and **wireless communication**
-- ⚡ Always curious to learn, solve, build & deploy 🚀
+- 📡 Passionate about **IoT, embedded systems**, and **wireless communication**
+- ⚡ Always curious to **learn, solve, build & deploy** 🚀
 
 ---
 
@@ -51,7 +51,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=techvogue&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=techvogue&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=techvogue&theme=tokyonight" width="48%" />
 </p>
 
@@ -77,16 +77,16 @@
 
 - 🚀 Build end-to-end SaaS and IoT dashboards
 - 🧠 Learn and integrate AI with embedded systems
-- 🌍 Contribute to open source and help juniors in dev community
+- 🌍 Contribute to open source and help juniors in the dev community
 
 ---
 
 ### 📫 Let’s Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=firefox" /></a>
+  <a href="https://linkedin.com/in/kumar-gautam-tech"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:kumar.gautam@email.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://kumar-gautam-portfolio.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=firefox" /></a>
 </p>
 
 ---
@@ -96,4 +96,3 @@
 > **“Stay hungry, stay foolish.” — Steve Jobs**
 
 ---
-
