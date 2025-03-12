@@ -1,6 +1,7 @@
 <!-- Typing banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=4AF5FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Kumar+Gautam;Full+Stack+MERN+Developer;IoT+Enthusiast+%7C+Builder+%F0%9F%9B%A0%EF%B8%8F;Solving+real-world+problems+with+code" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=4AF5FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Kumar+Gautam;Full+Stack+MERN+Developer;IoT+Enthusiast+%7C+Builder+%F0%9F%9B%A0%EF%B8%8F;Solving+real-world+problems+with+code" alt="Typing SVG" />
+
 </p>
 
 <!-- 3D banner -->
