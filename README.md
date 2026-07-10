@@ -6,12 +6,12 @@
 
 <!-- 3D banner -->
 <p align="center">
-<img src="https://github.com/techvogue/techvogue/blob/main/header.webp?raw=true" alt="cool header" />
+
 
 
 
 <h1 align="center">Welcome to my GitHub! 👨‍💻</h1>
-<h3 align="center">Full Stack MERN Developer | Passionate about IoT & Wireless Communication 🌐</h3>
+<h3 align="center">Full Stack MERN Developer</h3>
 
 ---
 
