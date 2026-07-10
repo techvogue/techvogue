@@ -10,8 +10,8 @@
 
 
 
-<h1 align="center">Welcome to my GitHub! 👨‍💻</h1>
-<h3 align="center">Full Stack MERN Developer</h3>
+
+<h2 align="center">Full Stack MERN Developer</h2>
 
 ---
 
